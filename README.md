@@ -1,6 +1,6 @@
 # Blockchain-based ledger system
 
-Using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+Build a blockchain-based ledger system with a user-friendly web interface for conducting financial transactions.
 
 ---
 
