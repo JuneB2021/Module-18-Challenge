@@ -17,7 +17,7 @@ Turn Python scripts into shareable web apps by importing Streamlit.
 
 Running the Streamlit application by using streamlit run pychain.py. 
 
-![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Bar Chart.png)
+![markdown_image](https://github.com/JuneB2021/Module-18-Challenge/blob/main/Capture.PNG)
 
 ---
 
