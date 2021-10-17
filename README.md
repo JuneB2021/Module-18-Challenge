@@ -17,7 +17,7 @@ Turn Python scripts into shareable web apps by importing Streamlit.
 
 Validate the Streamlit application by running streamlit run pychain.py via terminal. 
 
-![markdown_image](https://github.com/JuneB2021/Module-18-Challenge/blob/main/Capture.PNG)
+![markdown_image](https://github.com/JuneB2021/Module-18-Challenge/blob/main/BlockchainLedgerSystem.gif)
 
 ---
 
